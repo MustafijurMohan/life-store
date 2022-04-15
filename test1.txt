@@ -1,1 +1,2 @@
-Hello Everyone I am learning git and github.
+Hello everyone i am learning git and github. 
+This Tutorial is very easy 
