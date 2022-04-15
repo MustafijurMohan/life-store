@@ -1,6 +1,11 @@
 Hello everyone i am learning git and github. 
-This Tutorial is very easy 
+This Tutorial is very easy .
 I am complete my BBS course and I started My MBS course . 
 I am become a MERN Stack Developer .
+<<<<<<< HEAD
 I am read in Accounting. 
 Hello everyone. 
+=======
+I read in Accounting .
+>>>>>>> b55c626b30945fb375ab31681c8f1b1658d4c323
+Hello world 
