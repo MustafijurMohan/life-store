@@ -1,7 +1,7 @@
 I have completed my BBS course. 
 Hello everyone I am learning git and github. 
 I am a student.
-
+I have completed SSC in 2013.
 
 
 
