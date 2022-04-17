@@ -12,3 +12,4 @@ I have completed SSC in 2013.
 
 >>>>>>> 4659e91cae6568583313d0414464108c676586f6
 Logo alignment centered.
+This text added from new-branch
