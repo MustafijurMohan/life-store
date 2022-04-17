@@ -1,15 +1,8 @@
 I have completed my BBS course. 
 Hello everyone I am learning git and github. 
 I am a student.
-<<<<<<< HEAD
 I am learning MERN Stack Development. 
 I have done my job. 
-=======
 I have completed SSC in 2013.
-
-
-
-
->>>>>>> 4659e91cae6568583313d0414464108c676586f6
 Logo alignment centered.
-This text form main branch.
+This text added from new-branch
